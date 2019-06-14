@@ -1,0 +1,2 @@
+﻿  LoggerTest1.cpp
+e:\simple logger\loggertest1\loggertest1.cpp(13): error C2276: '!': illegal operation on bound member function expression
